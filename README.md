@@ -3,7 +3,7 @@
  <h1 align="center">CRUD básico de cadastro de e-mail</h1>
  
  <p>
-    <img alt="crud" src="img/imgGithubGG.png" width="80%">
+    <img alt="crud" src="img/crud.png" width="80%">
  </p>
 
  ## 🚀 Tecnologias
